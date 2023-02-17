@@ -1,3 +1,4 @@
+# exercice sur les dictionnaire
 coordinates = [(4,5), (9,3), (12,8), (13,7), (18,6), (20,9)]
 ordinates = []
 for i in coordinates:
